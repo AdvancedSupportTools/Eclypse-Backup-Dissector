@@ -1,4 +1,5 @@
 Eclypse Backup Dissector
+
 ⚠️ IMPORTANT: COMMUNITY TOOL – NOT AN OFFICIAL DISTECH CONTROLS PRODUCT
 This application is a special project developed by the Distech Controls Advanced Support Team and is NOT a sanctioned or official product release by Distech Controls Inc.
 Please read DISCLAIMER.txt in full before using this tool.
